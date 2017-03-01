@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyReadBook</string>
+    <string name="to_add">去添加</string>
+
+
+    <string-array name="home_tabs">
+        <item>书架</item>
+        <item>社区</item>
+        <item>发现</item>
+    </string-array>
+</resources>
